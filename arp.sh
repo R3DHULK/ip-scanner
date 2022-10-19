@@ -1,0 +1,12 @@
+echo " "
+echo "********************************************************"
+echo "*                                                      *"
+echo "*        Works Fine On Only Linux Enviroment           *"
+echo "*    code from R3dHULK (https://github.com/R3DHULK)    *"
+echo "*                                                      *"
+echo "********************************************************"
+echo " "
+echo "            [!] static ip found ... "
+echo " "
+arp -a
+echo " "

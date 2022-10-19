@@ -1,0 +1,7 @@
+requests
+socket
+scapy
+time
+sys
+re
+os
